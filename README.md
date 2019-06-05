@@ -1,3 +1,4 @@
 Hello, world!
 New text added :)
-And more!
+This one is changed.
+This one is deleted
